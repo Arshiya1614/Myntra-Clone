@@ -1,0 +1,19 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "this is  functional Myntra clone using HTML,CSS & JS",
+  "main": "Myntra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arshiya1614/Myntra-Clone.git"
+  },
+  "author": "Arshiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arshiya1614/Myntra-Clone/issues"
+  },
+  "homepage": "https://github.com/Arshiya1614/Myntra-Clone#readme"
+}
